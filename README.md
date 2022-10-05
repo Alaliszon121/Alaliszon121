@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alicja Janeczko</h1>
 <h3 align="center">I am an aspiring programmer technician student.</h3>
 
-- 🌱 I’m currently learning **Java, React, Python**
+- ❤️ I want to be a **computer game developer** in the future.🎮
+
+- 🌱 I’m currently learning **Java, NODE.js, C#**
 
 - 📫 How to reach me **isabelle.prince.umh@gmail.com**
 
